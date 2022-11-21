@@ -51,3 +51,8 @@
 .justify{
     text-align: justify;
 }
+/* Contado*/
+
+.ml-50 {
+    margin-left: 50px;
+}
